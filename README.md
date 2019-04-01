@@ -1,4 +1,10 @@
 
+
+## Applied fix for app crash for iOS 12.2 
+
+https://github.com/katzer/cordova-plugin-background-mode/issues/419#issuecomment-473851949
+
+
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
 </p>
